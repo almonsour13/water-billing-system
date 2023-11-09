@@ -1,0 +1,114 @@
+.panel{
+    -fx-background-color:#f2f2f2;
+/*    -fx-padding:5px;*/
+}
+.side-bar-panel{
+    -fx-background-color:#8080ff;
+    -fx-background-radius:10px ;
+    -fx-padding:10 0 10 10;
+}
+.admin-panel{
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+    -fx-font-size:20px;
+    
+}
+.menu-btn{
+    -fx-background-color:transparent;
+    -fx-background-radius:10 0 0 10;
+    -fx-font-size:14px;
+    -fx-label-padding:10px;
+    -fx-cursor:hand;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+/*    -fx-border-style: solid;
+    -fx-border-width:0 0 0 5px;
+    -fx-border-color:transparent;*/
+}
+.menu-btn:hover{
+    -fx-background-color:#f2f2f2;
+    -fx-text-fill: #8080ff;
+/*    -fx-border-style: solid;
+    -fx-border-width:0 0 0 5px;
+    -fx-border-color:white;*/
+}
+.menu-btn-clicked{
+    -fx-font-size:14px;
+    -fx-label-padding:10px;
+    -fx-text-fill: white;
+    -fx-background-color:#f2f2f2;
+    -fx-text-fill: #8080ff;
+    -fx-background-radius:10 0 0 10;
+    -fx-font-weight:bold;
+}
+.searchConsumer{
+    -fx-background-color:#f2f2f2;
+    -fx-backgrund-radius:10;
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-border-style:solid;
+    -fx-border-width:1;
+}
+.filterStatusBtn{
+    -fx-background-color:transparent;
+    -fx-backgrund-radius:10;
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-border-style:solid;
+    -fx-border-width:1;
+    
+}
+.consumerPageBtn{
+    -fx-background-color:#8080ff; 
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-text-fill:white;
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+    -fx-cursor:hand;
+}
+
+.table-view {
+    -fx-background-color: white
+}
+.table-view .column-header-background{
+    -fx-background-color: white;
+    -fx-background-radius: 10px;
+}
+.modalContainer{
+    -fx-background-color:white;
+}
+.addCustomerInput{
+    -fx-background-color:#f2f2f2;
+    -fx-backgrund-radius:10;
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-border-style:solid;
+    -fx-border-width:1;
+}
+.addCustomerLabel{
+    -fx-text-fill:#8080ff;
+}
+.addCustomer{
+    -fx-background-color:#8080ff; 
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-text-fill:white;
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+    -fx-cursor:hand;    
+}
+.cancelAddCustomer{
+    -fx-background-color:transparent; 
+    -fx-border-radius:5;
+    -fx-border-color:#8080ff;
+    -fx-text-fill:#8080ff;
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+    -fx-cursor:hand;  
+}
+.consumerTableContainer{
+    -fx-background-color:white ;
+    -fx-border-radius:10;
+    
+}

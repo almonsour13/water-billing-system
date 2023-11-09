@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="564.0" prefWidth="849.0" style="-fx-padding: 10;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane prefHeight="65.0" prefWidth="849.0" style="-fx-background-color: white; -fx-background-radius: 10;" styleClass="db-inn-container" />
+      <Pane layoutX="14.0" layoutY="135.0" prefHeight="124.0" prefWidth="216.0" style="-fx-background-color: white; -fx-background-radius: 10;" styleClass="db-inn-container" />
+   </children>
+</Pane>
